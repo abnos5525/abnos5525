@@ -34,8 +34,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-<img src="https://visitcount.itsvg.in/api?id=abnos5525&icon=0&color=5"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
