@@ -36,8 +36,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer">
-  <img src="https://visitcount.itsvg.in/api?id=abnos5525&icon=0&color=5"/>
-</a>
+<img src="https://visitcount.itsvg.in/api?id=abnos5525&icon=0&color=5"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
