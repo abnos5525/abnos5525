@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m Hossein (Abnos) – A passionate Web Developer turning ideas into seamless digital experiences 🌐.  <br>💻 Tech Stack : React | NestJS | Spring Boot | Python | JavaScript  <br>🔍 Exploring: Backend architectures, frontend innovations, and everything in between.  <br>🎯 Mission: Building scalable, user-friendly, and visually stunning applications that solve real-world problems.<br>🕵️‍♂️ Mystery Enthusiast: Obsessed with mind-bending TV series and puzzles – always chasing the next twist!  <br>🧠 Lifelong Learner: Constantly experimenting with new tools, frameworks, and technologies to level up my game.<br>
+👋 Hey there! I’m Hossein (Abnos) – A passionate Web Developer turning ideas into seamless digital experiences 🌐.  <br>💻 Tech Stack : ReactJS | NestJS | Spring Boot | Python | JavaScript | TypeScript  <br>🔍 Exploring: Backend architectures, frontend innovations, and everything in between.  <br>🎯 Mission: Building scalable, user-friendly, and visually stunning applications that solve real-world problems.<br>🕵️‍♂️ Mystery Enthusiast: Obsessed with mind-bending TV series and puzzles – always chasing the next twist!  <br>🧠 Lifelong Learner: Constantly experimenting with new tools, frameworks, and technologies to level up my game.<br>
 
 
 ## 🌐 Socials:
