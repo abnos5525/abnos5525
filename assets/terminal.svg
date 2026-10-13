@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="390" viewBox="0 0 860 390" role="img" aria-label="Terminal: whoami, stack, ship">
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#5eead4" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="halo" cx="0.85" cy="0" r="0.9">
+      <stop offset="0" stop-color="#134e4a" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0" />
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b" />
+      <feMerge><feMergeNode in="b" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <clipPath id="t1"><rect x="36" y="62" height="28" width="0"><animate attributeName="width" from="0" to="160" begin="0.3s" dur="0.6s" fill="freeze" /></rect></clipPath>
+    <clipPath id="t2"><rect x="36" y="128" height="28" width="0"><animate attributeName="width" from="0" to="240" begin="1.6s" dur="0.8s" fill="freeze" /></rect></clipPath>
+    <clipPath id="t3"><rect x="36" y="272" height="28" width="0"><animate attributeName="width" from="0" to="420" begin="3.6s" dur="1s" fill="freeze" /></rect></clipPath>
+    <style>
+      text { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, Menlo, monospace; font-size: 15px; fill: #c9d1d9; }
+      .p { fill: #5eead4; }
+      .m { fill: #8b949e; }
+      .k { fill: #5eead4; }
+      .ok { fill: #34d399; }
+      .h { fill: #ffffff; font-weight: 600; }
+      .scan { animation: scan 4.5s linear infinite; }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(400px); } }
+      .blink { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .sweep { animation: sweep 3.2s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-860px); } 100% { transform: translateX(860px); } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="388" rx="14" fill="#0d1117" stroke="#30363d" />
+  <rect x="1" y="1" width="858" height="388" rx="14" fill="url(#halo)" />
+  <rect class="sweep" x="0" y="1" width="860" height="1.5" fill="url(#edge)" />
+
+  <rect x="1" y="1" width="858" height="38" rx="14" fill="#161b22" />
+  <rect x="1" y="26" width="858" height="13" fill="#161b22" />
+  <line x1="1" y1="39" x2="859" y2="39" stroke="#30363d" />
+  <circle cx="24" cy="20" r="6" fill="#ff5f57" />
+  <circle cx="44" cy="20" r="6" fill="#febc2e" />
+  <circle cx="64" cy="20" r="6" fill="#28c840" />
+  <text x="430" y="25" text-anchor="middle" class="m" style="font-size:13px">hossein@dev: ~/abnos5525</text>
+
+  <rect class="scan" x="1" y="40" width="858" height="40" fill="#5eead4" opacity="0.025" />
+
+  <g clip-path="url(#t1)"><text x="36" y="80"><tspan class="p">&#10095;</tspan> whoami</text></g>
+  <text x="36" y="108" opacity="0" filter="url(#glow)"><tspan class="h">Hossein Heidary</tspan><tspan class="m"> &#8212; </tspan><tspan class="k">full-stack web engineer</tspan><tspan class="m"> &#183; Tehran</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.35s" fill="freeze" />
+  </text>
+
+  <g clip-path="url(#t2)"><text x="36" y="146"><tspan class="p">&#10095;</tspan> cat stack.yml</text></g>
+  <text x="36" y="174" opacity="0"><tspan class="k">interface </tspan><tspan class="m">: </tspan>React &#183; Next.js &#183; TypeScript &#183; Redux &#183; TanStack Query
+    <animate attributeName="opacity" from="0" to="1" begin="2.55s" dur="0.3s" fill="freeze" />
+  </text>
+  <text x="36" y="198" opacity="0"><tspan class="k">services  </tspan><tspan class="m">: </tspan>NestJS &#183; Spring Boot &#183; Node.js &#183; REST &#183; gRPC
+    <animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.3s" fill="freeze" />
+  </text>
+  <text x="36" y="222" opacity="0"><tspan class="k">identity  </tspan><tspan class="m">: </tspan>Keycloak &#183; JWT &#183; SpiceDB &#183; Kong
+    <animate attributeName="opacity" from="0" to="1" begin="2.95s" dur="0.3s" fill="freeze" />
+  </text>
+  <text x="36" y="246" opacity="0"><tspan class="k">platform  </tspan><tspan class="m">: </tspan>Kafka &#183; RabbitMQ &#183; PostgreSQL &#183; Redis &#183; Docker
+    <animate attributeName="opacity" from="0" to="1" begin="3.15s" dur="0.3s" fill="freeze" />
+  </text>
+
+  <g clip-path="url(#t3)"><text x="36" y="290"><tspan class="p">&#10095;</tspan> ./ship --from=screen --to=storage</text></g>
+  <text x="36" y="318" opacity="0"><tspan class="ok">&#10003;</tspan> typed contracts   <tspan class="ok">&#10003;</tspan> auth &amp; roles   <tspan class="ok">&#10003;</tspan> event-driven   <tspan class="ok">&#10003;</tspan> tested   <tspan class="ok">&#10003;</tspan> deployed
+    <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.35s" fill="freeze" />
+  </text>
+  <text x="36" y="342" opacity="0" class="m">build passed in 0.42s &#183; 0 regressions
+    <animate attributeName="opacity" from="0" to="1" begin="5.25s" dur="0.35s" fill="freeze" />
+  </text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.2s" fill="freeze" />
+    <text x="36" y="372"><tspan class="p">&#10095;</tspan></text>
+    <rect class="blink" x="54" y="359" width="9" height="17" fill="#5eead4" />
+  </g>
+</svg>

@@ -1,37 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,55:0f2e2b,100:134e4a&height=190&section=header&text=Hossein%20Heidary&fontSize=52&fontColor=5eead4&fontAlignY=40&desc=Senior%20Full-Stack%20Web%20Engineer%20%C2%B7%20Tehran&descSize=17&descAlignY=64&descAlign=50&animation=fadeIn" width="100%" alt="Hossein Heidary — Senior Full-Stack Web Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f2e2b,100:134e4a&height=220&section=header&text=Hossein%20Heidary&fontSize=58&fontColor=5eead4&fontAlignY=42&desc=Full-Stack%20Web%20Engineer%20%C2%B7%20Tehran&descSize=18&descAlignY=64&animation=twinkling&stroke=5eead4&strokeWidth=1" width="100%" alt="Hossein Heidary — Full-Stack Web Engineer" />
 
 <a href="https://github.com/abnos5525">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=620&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;NestJS+%C2%B7+Spring+Boot+%C2%B7+Keycloak;Kafka+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;From+the+first+screen+to+the+API." alt="Typing stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=800&color=5EEAD4&center=true&vCenter=true&multiline=false&repeat=true&width=680&lines=I+ship+product+from+screen+to+storage.;React+%C2%B7+Next.js+%C2%B7+TypeScript;NestJS+%C2%B7+Spring+Boot+%C2%B7+gRPC;Keycloak+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Redis;Fast.+Secure.+Built+to+scale." alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hossein-heidary-00a928235/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hossein-heidary-00a928235/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzVlZWFkNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:abnos5525@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5eead4" alt="Email" /></a>
 <a href="https://www.instagram.com/hosseinn_heidary"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=5eead4" alt="Instagram" /></a>
 <a href="https://youtube.com/@pixel_phenomena"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=5eead4" alt="YouTube" /></a>
 <img src="https://komarev.com/ghpvc/?username=abnos5525&style=for-the-badge&color=134e4a&label=PROFILE+VIEWS" alt="Profile views" />
 
+<br/><br/>
+
+<img src="./assets/terminal.svg" width="100%" alt="Terminal intro — whoami, stack, ship" />
+
 </div>
 
-<br/>
+## How I build
 
-```ts
-const hossein = {
-  role: "Senior Full-Stack Web Engineer",
-  base: "Tehran, Iran",
-  now: "Isiran — identity, news & video-management platforms",
-  ships: ["product UI", "typed APIs", "auth", "event pipelines"],
-  frontend: ["React", "Next.js", "TypeScript", "Redux Toolkit", "TanStack Query"],
-  backend: ["NestJS", "Spring Boot", "Node.js", "REST", "gRPC"],
-  identity: ["Keycloak", "JWT", "SpiceDB"],
-  data: ["PostgreSQL", "Redis", "JPA", "SQL Server"],
-  platform: ["Docker", "Kafka", "RabbitMQ", "Kong", "Linux"],
-  studying: "M.Sc. Software Engineering",
-} as const;
-```
+<p align="center">
+  <img src="./assets/architecture.svg" width="100%" alt="Browser → Next.js → Kong → NestJS / Spring Boot → Kafka, PostgreSQL, Redis, secured by Keycloak" />
+</p>
+
+I own features end to end: the interface people touch, the API behind it, the identity layer that guards it, and the event pipeline that keeps it in sync. Typed contracts on both sides, role-based access by default, and services that stay fast as the product grows.
 
 ## Stack
 
@@ -41,7 +36,7 @@ const hossein = {
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,angular,html,css&theme=dark" alt="Frontend stack" /></td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><b>Services</b></td>
     <td><img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,spring,maven,gradle&theme=dark" alt="Backend stack" /></td>
   </tr>
   <tr>
@@ -71,12 +66,12 @@ const hossein = {
 
 ## Path
 
-| When | Where | What |
+| When | Where | What I built |
 | --- | --- | --- |
-| 2024 — now | **Isiran** | User management (React · Spring Boot · Keycloak), news (React · NestJS), VMS (NestJS · Kafka) |
+| 2024 — now | **Isiran** | User management (React · Spring Boot · Keycloak), news platform (React · NestJS), video management system (NestJS · Kafka) |
 | 2026 | **Erico** | Infrastructure services — Spring Boot · Angular · Kong · SpiceDB |
 | 2025 — 2026 | **Arnitex** | Digital exchange — Java · Spring Boot · React · Next.js |
-| 2020 — 2023 | **Segal Rayane** | Taught frontend and Java |
+| 2020 — 2023 | **Segal Rayane** | Taught frontend and Java to the next generation of developers |
 
 ## Signal
 
@@ -96,4 +91,4 @@ const hossein = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:134e4a,45:0f2e2b,100:0d1117&height=90&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:0f2e2b,100:0d1117&height=110&section=footer&animation=twinkling" width="100%" alt="" />
